@@ -1,13 +1,13 @@
-package com.example.traffic_coupon;
+package com.example.couponconsumer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TrafficCouponApplicationTests {
+class CouponConsumerApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
